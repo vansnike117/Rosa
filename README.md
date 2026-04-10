@@ -1,2 +1,0 @@
-# Rosa
-Rosa código qr
